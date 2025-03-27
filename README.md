@@ -1,4 +1,4 @@
-# 🩸 Blood-Donation-UX-Research  
+# 🩸 Enhancing Donor Acquisition by Optimizing Registration via User-Centered Design
 
 This repository contains research data, analysis, and design artifacts for my **thesis on improving the blood donation user journey** through UX enhancements and chatbot integration.  
 
