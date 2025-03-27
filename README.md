@@ -1,9 +1,9 @@
 # 🩸 Enhancing Donor Acquisition by Optimizing Registration via User-Centered Design
 
-This repository contains research data, analysis, and design artifacts for my **thesis on improving the blood donation user journey** through UX enhancements and chatbot integration.  
+This repository contains research data, analysis, and design artifacts for my **thesis on improving the blood donation user journey** through UX enhancements.
 
 ## 📌 Project Overview  
-The goal of this research is to enhance the **user experience of blood donors** by identifying pain points, optimizing workflows, and integrating **a chatbot to streamline the donation process**.  
+The goal of this research is to enhance the **user experience of blood donors** by identifying pain points and optimizing workflows.
 
 ## 📂 Repository Structure  
 - **📁 Figma Designs** – Wireframes, prototypes, and UI components.  
